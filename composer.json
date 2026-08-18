@@ -1,8 +1,20 @@
 {
     "name": "aegisora/is-callable-rule-guardian",
-    "description": "<REPOSITORY_DESCRIPTION>",
+    "description": "Is Callable Rule Guardian provides a simple shortcut for callable validation using aegisora/guardian and aegisora/is-callable-rule",
     "type": "library",
-    "keywords": ["php", "aegisora", "aegisora-ecosystem"],
+    "keywords": [
+        "php",
+        "aegisora",
+        "aegisora-ecosystem",
+        "validation",
+        "guardian",
+        "is-callable",
+        "is-callable-check",
+        "is-callable-rule",
+        "callable",
+        "rule",
+        "rule-guardian"
+    ],
     "homepage": "https://github.com/Aegisora/is-callable-rule-guardian",
     "support": {
         "issues": "https://github.com/Aegisora/is-callable-rule-guardian/issues",
